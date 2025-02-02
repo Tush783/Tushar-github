@@ -1,0 +1,218 @@
+2025-02-01 17:24:49,173 : INFO : test_mapcase : Getting all the land details
+2025-02-01 17:24:50,438 : INFO : test_mapcase : Land
+LSOA Boundaries
+MSOA Boundaries
+Ward Boundaries
+Postcodes
+Local Authority Boundary
+Ancient Woodland
+Conservation Areas
+Flood Risk Zone 2
+Flood Risk Zone 3
+Areas of Outstanding Natural Beauty
+Parish Boundaries - England
+Green Belt - England
+Green Belt - Scotland
+2025-02-01 23:48:07,498 : INFO : test_mapcase : Getting all the land details
+2025-02-01 23:49:54,004 : INFO : test_mapcase : Getting all the land details
+2025-02-01 23:51:12,229 : INFO : test_mapcase : Getting all the land details
+2025-02-01 23:52:12,997 : INFO : test_mapcase : Getting all the land details
+2025-02-01 23:58:59,295 : INFO : test_mapcase : Getting all the land details
+2025-02-02 00:12:48,152 : INFO : test_mapcase : Getting all the land details
+2025-02-02 00:15:20,909 : INFO : test_mapcase : Getting all the land details
+2025-02-02 00:16:19,096 : INFO : test_mapcase : Getting all the land details
+2025-02-02 00:20:04,508 : INFO : test_mapcase : Getting all the land details
+2025-02-02 00:27:54,010 : INFO : test_mapcase : Getting all the land details
+2025-02-02 12:22:31,072 : INFO : test_mapcase : Getting all the land details
+2025-02-02 12:24:59,379 : INFO : test_mapcase : Getting all the land details
+2025-02-02 12:25:45,597 : INFO : test_mapcase : Getting all the land details
+2025-02-02 12:29:20,669 : INFO : test_mapcase : Getting all the land details
+2025-02-02 12:31:38,700 : INFO : test_mapcase : Getting all the land details
+2025-02-02 12:33:29,929 : INFO : test_mapcase : Getting all the land details
+2025-02-02 12:35:41,709 : INFO : test_mapcase : Getting all the land details
+2025-02-02 12:37:24,887 : INFO : test_mapcase : Getting all the land details
+2025-02-02 12:41:37,315 : INFO : test_mapcase : Getting all the land details
+2025-02-02 12:43:13,882 : INFO : test_mapcase : Getting all the land details
+2025-02-02 12:43:41,346 : INFO : test_mapcase : Getting all the land details
+2025-02-02 12:44:08,009 : INFO : test_mapcase : Getting all the land details
+2025-02-02 12:44:54,158 : INFO : test_mapcase : Getting all the land details
+2025-02-02 12:45:31,332 : INFO : test_mapcase : Getting all the land details
+2025-02-02 12:47:10,979 : INFO : test_mapcase : Getting all the land details
+2025-02-02 13:00:35,793 : INFO : test_mapcase : Getting all the land details
+2025-02-02 13:02:49,630 : INFO : test_mapcase : Getting all the land details
+2025-02-02 13:07:11,291 : INFO : test_mapcase : Getting all the land details
+2025-02-02 13:35:54,989 : INFO : test_mapcase : Getting all the land details
+2025-02-02 13:40:35,084 : INFO : test_mapcase : Getting all the land details
+2025-02-02 13:48:31,560 : INFO : test_mapcase : Getting all the land details
+2025-02-02 13:59:12,376 : INFO : test_mapcase : Getting all the land details
+2025-02-02 14:03:27,901 : INFO : test_mapcase : Getting all the land details
+2025-02-02 14:05:48,286 : INFO : test_mapcase : Getting all the land details
+2025-02-02 14:07:23,750 : INFO : test_mapcase : Getting all the land details
+2025-02-02 14:15:12,549 : INFO : test_mapcase : Getting all the land details
+2025-02-02 14:17:48,133 : INFO : test_mapcase : Getting all the land details
+2025-02-02 14:20:21,712 : INFO : test_mapcase : Getting all the land details
+2025-02-02 14:29:07,588 : INFO : test_mapcase : Getting all the land details
+2025-02-02 14:32:35,654 : INFO : test_mapcase : Getting all the land details
+2025-02-02 14:37:59,303 : INFO : test_mapcase : Getting all the land details
+2025-02-02 14:58:43,929 : INFO : test_mapcase : Getting all the land details
+2025-02-02 14:58:50,267 : INFO : test_mapcase : Map Downloaded Successfully: LSOA Boundaries
+2025-02-02 14:58:55,580 : INFO : test_mapcase : Map Downloaded Successfully: MSOA Boundaries
+2025-02-02 14:59:00,945 : INFO : test_mapcase : Map Downloaded Successfully: Ward Boundaries
+2025-02-02 14:59:06,278 : INFO : test_mapcase : Map Downloaded Successfully: Postcodes
+2025-02-02 14:59:11,721 : INFO : test_mapcase : Unexpected error message: download failed - Local Authority Boundary
+2025-02-02 14:59:22,279 : INFO : test_mapcase : Map Downloaded Successfully: Ancient Woodland
+2025-02-02 14:59:27,580 : INFO : test_mapcase : Map Downloaded Successfully: Conservation Areas
+2025-02-02 14:59:32,976 : INFO : test_mapcase : Map Downloaded Successfully: Flood Risk Zone 2
+2025-02-02 14:59:38,248 : INFO : test_mapcase : Map Downloaded Successfully: Flood Risk Zone 3
+2025-02-02 14:59:43,571 : INFO : test_mapcase : Map Downloaded Successfully: Areas of Outstanding Natural Beauty
+2025-02-02 14:59:48,949 : INFO : test_mapcase : Map Downloaded Successfully: Parish Boundaries - England
+2025-02-02 14:59:54,423 : INFO : test_mapcase : Map Downloaded Successfully: Green Belt - England
+2025-02-02 14:59:59,815 : INFO : test_mapcase : Unexpected error message: download failed - Green Belt - Scotland
+2025-02-02 15:01:21,091 : INFO : test_mapcase : Getting all the land details
+2025-02-02 15:01:26,535 : INFO : test_mapcase : Map Downloaded Successfully: LSOA Boundaries
+2025-02-02 15:01:31,780 : INFO : test_mapcase : Map Downloaded Successfully: MSOA Boundaries
+2025-02-02 15:01:37,089 : INFO : test_mapcase : Map Downloaded Successfully: Ward Boundaries
+2025-02-02 15:01:42,443 : INFO : test_mapcase : Map Downloaded Successfully: Postcodes
+2025-02-02 15:01:47,726 : INFO : test_mapcase : Unexpected error message: download failed - Local Authority Boundary
+2025-02-02 15:06:03,329 : INFO : test_mapcase : Getting all the land details
+2025-02-02 15:06:08,725 : INFO : test_mapcase : Map Downloaded Successfully: LSOA Boundaries
+2025-02-02 15:06:14,022 : INFO : test_mapcase : Map Downloaded Successfully: MSOA Boundaries
+2025-02-02 15:06:19,279 : INFO : test_mapcase : Map Downloaded Successfully: Ward Boundaries
+2025-02-02 15:06:24,611 : INFO : test_mapcase : Map Downloaded Successfully: Postcodes
+2025-02-02 15:06:30,104 : INFO : test_mapcase : Unexpected error message: download failed - Local Authority Boundary
+2025-02-02 15:06:43,847 : INFO : test_mapcase : Map Downloaded Successfully: Ancient Woodland
+2025-02-02 15:06:49,219 : INFO : test_mapcase : Map Downloaded Successfully: Conservation Areas
+2025-02-02 15:06:54,613 : INFO : test_mapcase : Map Downloaded Successfully: Flood Risk Zone 2
+2025-02-02 15:07:00,033 : INFO : test_mapcase : Map Downloaded Successfully: Flood Risk Zone 3
+2025-02-02 15:07:05,437 : INFO : test_mapcase : Map Downloaded Successfully: Areas of Outstanding Natural Beauty
+2025-02-02 15:07:10,901 : INFO : test_mapcase : Map Downloaded Successfully: Parish Boundaries - England
+2025-02-02 15:07:16,324 : INFO : test_mapcase : Map Downloaded Successfully: Green Belt - England
+2025-02-02 15:07:21,713 : INFO : test_mapcase : Unexpected error message: download failed - Green Belt - Scotland
+2025-02-02 15:08:52,147 : INFO : test_mapcase : Getting all the land details
+2025-02-02 15:08:57,512 : INFO : test_mapcase : Map Downloaded Successfully: LSOA Boundaries
+2025-02-02 15:09:02,738 : INFO : test_mapcase : Map Downloaded Successfully: MSOA Boundaries
+2025-02-02 15:09:08,006 : INFO : test_mapcase : Map Downloaded Successfully: Ward Boundaries
+2025-02-02 15:09:13,427 : INFO : test_mapcase : Map Downloaded Successfully: Postcodes
+2025-02-02 15:09:18,789 : INFO : test_mapcase : Unexpected error message: download failed - Local Authority Boundary
+2025-02-02 15:09:28,587 : INFO : test_mapcase : Map Downloaded Successfully: Ancient Woodland
+2025-02-02 15:09:33,971 : INFO : test_mapcase : Map Downloaded Successfully: Conservation Areas
+2025-02-02 15:09:39,402 : INFO : test_mapcase : Map Downloaded Successfully: Flood Risk Zone 2
+2025-02-02 15:09:44,818 : INFO : test_mapcase : Map Downloaded Successfully: Flood Risk Zone 3
+2025-02-02 15:09:50,216 : INFO : test_mapcase : Map Downloaded Successfully: Areas of Outstanding Natural Beauty
+2025-02-02 15:09:55,495 : INFO : test_mapcase : Map Downloaded Successfully: Parish Boundaries - England
+2025-02-02 15:10:00,957 : INFO : test_mapcase : Map Downloaded Successfully: Green Belt - England
+2025-02-02 15:10:06,425 : INFO : test_mapcase : Unexpected error message: download failed - Green Belt - Scotland
+2025-02-02 15:11:59,586 : INFO : test_mapcase : Getting all the land details
+2025-02-02 15:12:03,010 : INFO : test_mapcase : Map Downloaded Successfully: LSOA Boundaries
+2025-02-02 15:12:05,213 : INFO : test_mapcase : Map Downloaded Successfully: MSOA Boundaries
+2025-02-02 15:12:07,496 : INFO : test_mapcase : Map Downloaded Successfully: Ward Boundaries
+2025-02-02 15:12:09,881 : INFO : test_mapcase : Map Downloaded Successfully: Postcodes
+2025-02-02 15:12:12,350 : INFO : test_mapcase : Unexpected error message: download failed - Local Authority Boundary
+2025-02-02 15:12:18,734 : INFO : test_mapcase : Map Downloaded Successfully: Ancient Woodland
+2025-02-02 15:12:21,140 : INFO : test_mapcase : Map Downloaded Successfully: Conservation Areas
+2025-02-02 15:12:23,399 : INFO : test_mapcase : Map Downloaded Successfully: Flood Risk Zone 2
+2025-02-02 15:12:25,630 : INFO : test_mapcase : Map Downloaded Successfully: Flood Risk Zone 3
+2025-02-02 15:12:27,981 : INFO : test_mapcase : Map Downloaded Successfully: Areas of Outstanding Natural Beauty
+2025-02-02 15:12:30,391 : INFO : test_mapcase : Map Downloaded Successfully: Parish Boundaries - England
+2025-02-02 15:12:32,739 : INFO : test_mapcase : Map Downloaded Successfully: Green Belt - England
+2025-02-02 15:12:35,167 : INFO : test_mapcase : Unexpected error message: download failed - Green Belt - Scotland
+2025-02-02 15:15:01,706 : INFO : test_mapcase : Getting all the land details
+2025-02-02 15:15:05,522 : INFO : test_mapcase : Map Downloaded Successfully: LSOA Boundaries
+2025-02-02 15:15:07,729 : INFO : test_mapcase : Map Downloaded Successfully: MSOA Boundaries
+2025-02-02 15:15:10,026 : INFO : test_mapcase : Map Downloaded Successfully: Ward Boundaries
+2025-02-02 15:15:12,244 : INFO : test_mapcase : Map Downloaded Successfully: Postcodes
+2025-02-02 15:15:14,577 : INFO : test_mapcase : Unexpected error message: download failed - Local Authority Boundary
+2025-02-02 15:15:14,946 : INFO : test_mapcase : Screenshot saved as screenshot_5.png
+2025-02-02 15:15:20,328 : INFO : test_mapcase : Map Downloaded Successfully: Ancient Woodland
+2025-02-02 15:15:22,542 : INFO : test_mapcase : Map Downloaded Successfully: Conservation Areas
+2025-02-02 15:15:24,912 : INFO : test_mapcase : Map Downloaded Successfully: Flood Risk Zone 2
+2025-02-02 15:15:27,159 : INFO : test_mapcase : Map Downloaded Successfully: Flood Risk Zone 3
+2025-02-02 15:15:29,433 : INFO : test_mapcase : Map Downloaded Successfully: Areas of Outstanding Natural Beauty
+2025-02-02 15:15:31,783 : INFO : test_mapcase : Map Downloaded Successfully: Parish Boundaries - England
+2025-02-02 15:15:34,061 : INFO : test_mapcase : Map Downloaded Successfully: Green Belt - England
+2025-02-02 15:15:36,442 : INFO : test_mapcase : Unexpected error message: download failed - Green Belt - Scotland
+2025-02-02 15:15:36,706 : INFO : test_mapcase : Screenshot saved as screenshot_13.png
+2025-02-02 15:28:52,207 : INFO : test_mapcase : Getting all the land details
+2025-02-02 15:28:54,935 : INFO : test_mapcase : Map Downloaded Successfully: LSOA Boundaries
+2025-02-02 15:28:58,347 : INFO : test_mapcase : Map Downloaded Successfully: MSOA Boundaries
+2025-02-02 15:29:00,730 : INFO : test_mapcase : Map Downloaded Successfully: Ward Boundaries
+2025-02-02 15:29:03,088 : INFO : test_mapcase : Map Downloaded Successfully: Postcodes
+2025-02-02 15:29:05,443 : INFO : test_mapcase : Unexpected error message: download failed - Local Authority Boundary
+2025-02-02 15:29:07,782 : INFO : test_mapcase : Unexpected error message: download failed - Ancient Woodland
+2025-02-02 15:29:10,111 : INFO : test_mapcase : Map Downloaded Successfully: Conservation Areas
+2025-02-02 15:29:12,460 : INFO : test_mapcase : Map Downloaded Successfully: Flood Risk Zone 2
+2025-02-02 15:29:14,885 : INFO : test_mapcase : Map Downloaded Successfully: Flood Risk Zone 3
+2025-02-02 15:29:17,249 : INFO : test_mapcase : Map Downloaded Successfully: Areas of Outstanding Natural Beauty
+2025-02-02 15:29:19,572 : INFO : test_mapcase : Map Downloaded Successfully: Parish Boundaries - England
+2025-02-02 15:29:21,885 : INFO : test_mapcase : Map Downloaded Successfully: Green Belt - England
+2025-02-02 15:29:24,210 : INFO : test_mapcase : Unexpected error message: download failed - Green Belt - Scotland
+2025-02-02 15:32:13,308 : INFO : test_mapcase : Getting all the land details
+2025-02-02 15:32:16,101 : INFO : test_mapcase : Map Downloaded Successfully: LSOA Boundaries
+2025-02-02 15:32:19,460 : INFO : test_mapcase : Map Downloaded Successfully: MSOA Boundaries
+2025-02-02 15:32:21,803 : INFO : test_mapcase : Map Downloaded Successfully: Ward Boundaries
+2025-02-02 15:32:24,196 : INFO : test_mapcase : Map Downloaded Successfully: Postcodes
+2025-02-02 15:32:26,560 : INFO : test_mapcase : Unexpected error message: download failed - Local Authority Boundary
+2025-02-02 15:32:28,921 : INFO : test_mapcase : Unexpected error message: download failed - Ancient Woodland
+2025-02-02 15:32:31,284 : INFO : test_mapcase : Map Downloaded Successfully: Conservation Areas
+2025-02-02 15:32:33,654 : INFO : test_mapcase : Map Downloaded Successfully: Flood Risk Zone 2
+2025-02-02 15:32:36,017 : INFO : test_mapcase : Map Downloaded Successfully: Flood Risk Zone 3
+2025-02-02 15:32:38,356 : INFO : test_mapcase : Map Downloaded Successfully: Areas of Outstanding Natural Beauty
+2025-02-02 15:32:40,712 : INFO : test_mapcase : Map Downloaded Successfully: Parish Boundaries - England
+2025-02-02 15:32:43,090 : INFO : test_mapcase : Map Downloaded Successfully: Green Belt - England
+2025-02-02 15:32:45,489 : INFO : test_mapcase : Unexpected error message: download failed - Green Belt - Scotland
+2025-02-02 15:35:55,445 : INFO : test_mapcase : Getting all the land details
+2025-02-02 15:35:58,632 : INFO : test_mapcase : Map Downloaded Successfully: LSOA Boundaries
+2025-02-02 15:36:02,143 : INFO : test_mapcase : Map Downloaded Successfully: MSOA Boundaries
+2025-02-02 15:36:04,487 : INFO : test_mapcase : Map Downloaded Successfully: Ward Boundaries
+2025-02-02 15:36:06,914 : INFO : test_mapcase : Map Downloaded Successfully: Postcodes
+2025-02-02 15:36:09,280 : INFO : test_mapcase : Unexpected error message: download failed - Local Authority Boundary
+2025-02-02 15:36:11,631 : INFO : test_mapcase : Unexpected error message: download failed - Ancient Woodland
+2025-02-02 15:36:13,937 : INFO : test_mapcase : Map Downloaded Successfully: Conservation Areas
+2025-02-02 15:36:16,264 : INFO : test_mapcase : Map Downloaded Successfully: Flood Risk Zone 2
+2025-02-02 15:36:18,579 : INFO : test_mapcase : Map Downloaded Successfully: Flood Risk Zone 3
+2025-02-02 15:36:21,004 : INFO : test_mapcase : Map Downloaded Successfully: Areas of Outstanding Natural Beauty
+2025-02-02 15:36:23,348 : INFO : test_mapcase : Map Downloaded Successfully: Parish Boundaries - England
+2025-02-02 15:36:25,753 : INFO : test_mapcase : Map Downloaded Successfully: Green Belt - England
+2025-02-02 15:36:28,106 : INFO : test_mapcase : Unexpected error message: download failed - Green Belt - Scotland
+2025-02-02 15:37:55,622 : INFO : test_mapcase : Getting all the land details
+2025-02-02 15:37:58,315 : INFO : test_mapcase : Map Downloaded Successfully: LSOA Boundaries
+2025-02-02 15:38:01,697 : INFO : test_mapcase : Map Downloaded Successfully: MSOA Boundaries
+2025-02-02 15:38:04,163 : INFO : test_mapcase : Map Downloaded Successfully: Ward Boundaries
+2025-02-02 15:38:06,583 : INFO : test_mapcase : Map Downloaded Successfully: Postcodes
+2025-02-02 15:38:08,986 : INFO : test_mapcase : Unexpected error message: download failed - Local Authority Boundary
+2025-02-02 15:38:11,362 : INFO : test_mapcase : Unexpected error message: download failed - Ancient Woodland
+2025-02-02 15:38:13,719 : INFO : test_mapcase : Map Downloaded Successfully: Conservation Areas
+2025-02-02 15:38:16,086 : INFO : test_mapcase : Map Downloaded Successfully: Flood Risk Zone 2
+2025-02-02 15:38:18,481 : INFO : test_mapcase : Map Downloaded Successfully: Flood Risk Zone 3
+2025-02-02 15:38:20,864 : INFO : test_mapcase : Map Downloaded Successfully: Areas of Outstanding Natural Beauty
+2025-02-02 15:38:23,230 : INFO : test_mapcase : Map Downloaded Successfully: Parish Boundaries - England
+2025-02-02 15:38:25,576 : INFO : test_mapcase : Map Downloaded Successfully: Green Belt - England
+2025-02-02 15:38:27,957 : INFO : test_mapcase : Unexpected error message: download failed - Green Belt - Scotland
+2025-02-02 15:44:54,804 : INFO : test_mapcase : Getting all the land details
+2025-02-02 15:44:57,393 : INFO : test_mapcase : Map Downloaded Successfully: LSOA Boundaries
+2025-02-02 15:45:01,478 : INFO : test_mapcase : Map Downloaded Successfully: MSOA Boundaries
+2025-02-02 15:45:04,258 : INFO : test_mapcase : Map Downloaded Successfully: Ward Boundaries
+2025-02-02 15:45:06,827 : INFO : test_mapcase : Map Downloaded Successfully: Postcodes
+2025-02-02 15:45:09,220 : INFO : test_mapcase : Unexpected error message: download failed - Local Authority Boundary
+2025-02-02 15:45:11,597 : INFO : test_mapcase : Unexpected error message: download failed - Ancient Woodland
+2025-02-02 15:45:13,988 : INFO : test_mapcase : Map Downloaded Successfully: Conservation Areas
+2025-02-02 15:45:16,321 : INFO : test_mapcase : Map Downloaded Successfully: Flood Risk Zone 2
+2025-02-02 15:45:18,691 : INFO : test_mapcase : Map Downloaded Successfully: Flood Risk Zone 3
+2025-02-02 15:45:21,036 : INFO : test_mapcase : Map Downloaded Successfully: Areas of Outstanding Natural Beauty
+2025-02-02 15:45:23,574 : INFO : test_mapcase : Map Downloaded Successfully: Parish Boundaries - England
+2025-02-02 15:45:25,973 : INFO : test_mapcase : Map Downloaded Successfully: Green Belt - England
+2025-02-02 15:45:28,332 : INFO : test_mapcase : Unexpected error message: download failed - Green Belt - Scotland
+2025-02-02 17:04:07,209 : INFO : test_mapcase : Getting all the land details
+2025-02-02 17:04:10,020 : INFO : test_mapcase : Map Downloaded Successfully: LSOA Boundaries
+2025-02-02 17:04:14,283 : INFO : test_mapcase : Map Downloaded Successfully: MSOA Boundaries
+2025-02-02 17:04:16,979 : INFO : test_mapcase : Map Downloaded Successfully: Ward Boundaries
+2025-02-02 17:04:19,627 : INFO : test_mapcase : Map Downloaded Successfully: Postcodes
+2025-02-02 17:04:21,986 : INFO : test_mapcase : Unexpected error message: download failed - Local Authority Boundary
+2025-02-02 17:04:24,381 : INFO : test_mapcase : Unexpected error message: download failed - Ancient Woodland
+2025-02-02 17:04:26,796 : INFO : test_mapcase : Map Downloaded Successfully: Conservation Areas
+2025-02-02 17:04:29,215 : INFO : test_mapcase : Map Downloaded Successfully: Flood Risk Zone 2
+2025-02-02 17:04:31,552 : INFO : test_mapcase : Map Downloaded Successfully: Flood Risk Zone 3
+2025-02-02 17:04:33,902 : INFO : test_mapcase : Map Downloaded Successfully: Areas of Outstanding Natural Beauty
+2025-02-02 17:04:36,276 : INFO : test_mapcase : Map Downloaded Successfully: Parish Boundaries - England
+2025-02-02 17:04:38,667 : INFO : test_mapcase : Map Downloaded Successfully: Green Belt - England
+2025-02-02 17:04:41,034 : INFO : test_mapcase : Unexpected error message: download failed - Green Belt - Scotland
