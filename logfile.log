@@ -71,3 +71,17 @@ Green Belt - Scotland
 2025-02-02 15:46:54,680 : INFO : test_mapcase : Map Downloaded Successfully: Parish Boundaries - England
 2025-02-02 15:46:57,016 : INFO : test_mapcase : Map Downloaded Successfully: Green Belt - England
 2025-02-02 15:46:59,360 : INFO : test_mapcase : Unexpected error message: download failed - Green Belt - Scotland
+2025-02-02 21:49:27,603 : INFO : test_mapcase : Getting all the land details
+2025-02-02 21:49:30,980 : INFO : test_mapcase : Map Downloaded Successfully: LSOA Boundaries
+2025-02-02 21:49:35,569 : INFO : test_mapcase : Map Downloaded Successfully: MSOA Boundaries
+2025-02-02 21:49:39,055 : INFO : test_mapcase : Map Downloaded Successfully: Ward Boundaries
+2025-02-02 21:49:42,541 : INFO : test_mapcase : Map Downloaded Successfully: Postcodes
+2025-02-02 21:49:46,298 : INFO : test_mapcase : Unexpected error message: download failed - Local Authority Boundary
+2025-02-02 21:49:51,920 : INFO : test_mapcase : Map Downloaded Successfully: Ancient Woodland
+2025-02-02 21:49:55,435 : INFO : test_mapcase : Map Downloaded Successfully: Conservation Areas
+2025-02-02 21:49:58,857 : INFO : test_mapcase : Map Downloaded Successfully: Flood Risk Zone 2
+2025-02-02 21:50:02,332 : INFO : test_mapcase : Map Downloaded Successfully: Flood Risk Zone 3
+2025-02-02 21:50:05,805 : INFO : test_mapcase : Map Downloaded Successfully: Areas of Outstanding Natural Beauty
+2025-02-02 21:50:09,471 : INFO : test_mapcase : Map Downloaded Successfully: Parish Boundaries - England
+2025-02-02 21:50:12,897 : INFO : test_mapcase : Map Downloaded Successfully: Green Belt - England
+2025-02-02 21:50:16,790 : INFO : test_mapcase : Unexpected error message: download failed - Green Belt - Scotland

@@ -6,6 +6,7 @@ class LoginPage:
     def __init__(self, driver):
         self.driver = driver
 
+    # Storing the Login Page WebElements
     Username = (By.ID, "login-form_username")
     Password = (By.XPATH, "//input[@placeholder = 'Password']")
     LoginButton = (By.CSS_SELECTOR, ".ant-btn")

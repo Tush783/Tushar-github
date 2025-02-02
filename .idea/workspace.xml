@@ -4,7 +4,41 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1f052d7-a8c7-4026-a04b-dbcb0c95c707" name="Changes" comment="Tushar AI Code" />
+    <list default="true" id="d1f052d7-a8c7-4026-a04b-dbcb0c95c707" name="Changes" comment="Tushar AI Code">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PageObject/HomePage.py" beforeDir="false" afterPath="$PROJECT_DIR$/PageObject/HomePage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PageObject/LoginPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/PageObject/LoginPage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/Ancient Woodland.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/Areas of Outstanding Natural Beauty.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/Conservation Areas.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/Flood Risk Zone 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/Flood Risk Zone 3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/Green Belt - England.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/Green Belt - Scotland.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/LSOA Boundaries.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/Local Authority Boundary.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/MSOA Boundaries.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/Parish Boundaries - England.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/Postcodes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/Ward Boundaries.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logfile.log" beforeDir="false" afterPath="$PROJECT_DIR$/logfile.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Screenshots/Ancient Woodland.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Screenshots/Areas of Outstanding Natural Beauty.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Screenshots/Conservation Areas.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Screenshots/Flood Risk Zone 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Screenshots/Flood Risk Zone 3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Screenshots/Green Belt - England.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Screenshots/Green Belt - Scotland.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Screenshots/LSOA Boundaries.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Screenshots/Local Authority Boundary.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Screenshots/MSOA Boundaries.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Screenshots/Parish Boundaries - England.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Screenshots/Postcodes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Screenshots/Ward Boundaries.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/logfile.log" beforeDir="false" afterPath="$PROJECT_DIR$/tests/logfile.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_mapcase.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_mapcase.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,6 +121,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/ADMIN/PycharmProjects/Advanced_Infrastructure",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }

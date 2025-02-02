@@ -4,16 +4,16 @@ from selenium.webdriver.common.by import By
 from selenium.common import NoSuchElementException
 from PageObject.HomePage import HomePage
 from PageObject.LoginPage import LoginPage
-from tests.conftest import take_screenshot
+from tests.conftest import take_screenshot, driver
 from utilities.BaseClass import BaseClass
 
 
-#All the test cases are mapped under this class
+#Test Case
 class TestMap(BaseClass):
 
      def test_mapcase(self):
         log = self.getLogger()
-
+        #self.driver.implicitly_wait(5)
         loginPage = LoginPage(self.driver)
         loginPage.username().send_keys("TusharShetty")
         loginPage.password().send_keys("Tushar")
@@ -29,7 +29,7 @@ class TestMap(BaseClass):
 
         for dl in download_buttons:
             dl.click()
-            time.sleep(2)
+            time.sleep(3)
             try:
                 error_message = homePage.map_not_found()
                 #error_message = self.driver.find_element(By.XPATH, "//div[@class='ant-notification-notice-message']")
@@ -37,6 +37,7 @@ class TestMap(BaseClass):
                     log.info(f"Unexpected error message: download failed - {land_details[i].text}")
                     take_screenshot(self.driver, land_details[i].text)
                     i += 1
+                    time.sleep(2)
 
             except NoSuchElementException:
                 log.info(f"Map Downloaded Successfully: {land_details[i].text}")
